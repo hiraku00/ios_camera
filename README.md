@@ -302,3 +302,6 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
 
 # References
 - [Classifying Images with Vision and Core ML](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml)
+
+# in Japanese
+- [Qiita(Kerasで作成したモデルを変換してiOSに組み込み)](https://qiita.com/hiraku00/items/bc95717e3d154d6243f5)
